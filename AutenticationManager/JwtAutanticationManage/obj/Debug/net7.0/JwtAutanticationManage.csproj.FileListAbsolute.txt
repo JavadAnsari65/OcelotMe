@@ -10,3 +10,16 @@ C:\Users\Apple\Desktop\ocelot\AutenticationManager\JwtAutanticationManage\obj\De
 C:\Users\Apple\Desktop\ocelot\AutenticationManager\JwtAutanticationManage\obj\Debug\net7.0\refint\JwtAutanticationManage.dll
 C:\Users\Apple\Desktop\ocelot\AutenticationManager\JwtAutanticationManage\obj\Debug\net7.0\JwtAutanticationManage.pdb
 C:\Users\Apple\Desktop\ocelot\AutenticationManager\JwtAutanticationManage\obj\Debug\net7.0\ref\JwtAutanticationManage.dll
+D:\Hampadco\Repo\ocelotme\AutenticationManager\JwtAutanticationManage\bin\Debug\net7.0\JwtAutanticationManage.deps.json
+D:\Hampadco\Repo\ocelotme\AutenticationManager\JwtAutanticationManage\bin\Debug\net7.0\JwtAutanticationManage.dll
+D:\Hampadco\Repo\ocelotme\AutenticationManager\JwtAutanticationManage\bin\Debug\net7.0\JwtAutanticationManage.pdb
+D:\Hampadco\Repo\ocelotme\AutenticationManager\JwtAutanticationManage\obj\Debug\net7.0\JwtAutanticationManage.csproj.AssemblyReference.cache
+D:\Hampadco\Repo\ocelotme\AutenticationManager\JwtAutanticationManage\obj\Debug\net7.0\JwtAutanticationManage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hampadco\Repo\ocelotme\AutenticationManager\JwtAutanticationManage\obj\Debug\net7.0\JwtAutanticationManage.AssemblyInfoInputs.cache
+D:\Hampadco\Repo\ocelotme\AutenticationManager\JwtAutanticationManage\obj\Debug\net7.0\JwtAutanticationManage.AssemblyInfo.cs
+D:\Hampadco\Repo\ocelotme\AutenticationManager\JwtAutanticationManage\obj\Debug\net7.0\JwtAutanticationManage.csproj.CoreCompileInputs.cache
+D:\Hampadco\Repo\ocelotme\AutenticationManager\JwtAutanticationManage\obj\Debug\net7.0\JwtAutanticationManage.sourcelink.json
+D:\Hampadco\Repo\ocelotme\AutenticationManager\JwtAutanticationManage\obj\Debug\net7.0\JwtAutanticationManage.dll
+D:\Hampadco\Repo\ocelotme\AutenticationManager\JwtAutanticationManage\obj\Debug\net7.0\refint\JwtAutanticationManage.dll
+D:\Hampadco\Repo\ocelotme\AutenticationManager\JwtAutanticationManage\obj\Debug\net7.0\JwtAutanticationManage.pdb
+D:\Hampadco\Repo\ocelotme\AutenticationManager\JwtAutanticationManage\obj\Debug\net7.0\ref\JwtAutanticationManage.dll
